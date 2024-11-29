@@ -1,38 +1,65 @@
-👋 Hey there! I'm Emmanuel Cuyugan
-🔹 MSc Computer Science Candidate at The University of Law (London)
-🔹 Software Engineer Intern | Digital Analyst | Passionate about AI & Web Development
+# 👋 Hey there! I'm Emmanuel Cuyugan 
+🔹 Distinction (1:1) MSc Computer Science Graduate 
+🔹 AI Engineer | Software Engineer | Digital Analyst
 
-🚀 About Me
-With a diverse background in Software Engineering, Digital Analytics, and Business Development, I am dedicated to building impactful tech solutions. Currently, I’m pursuing a Master’s in Computer Science where I’m exploring cutting-edge technologies in AI, Machine Learning, and Web Development. I have hands-on experience in working with Python, JavaScript, and Cloud-based DevOps tools like AWS and Docker.
+## 🚀 About Me
+With expertise in AI Engineering and Full-Stack Development, I specialize in building intelligent systems that bridge technology and user experience. Fresh off pursuing a Master's in Computer Science, I focus on advanced AI applications, particularly in natural language processing and image generation. I have extensive experience working with OpenAI's GPT-4, DALL-E 3, and various cloud infrastructure tools.
 
-Whether it’s building affiliate tracking systems or implementing a microservices architecture, I take pride in creating high-quality, scalable solutions.
+## 🌟 Technical Skills
+- **AI/ML**: OpenAI GPT-4, DALL-E 3, LangChain, Pinecone, PyTorch
+- **Programming**: TypeScript, Python, JavaScript. 
+- **Web Development**: React, Flask, Node.js, Express, MongoDB
+- **Cloud & DevOps**: AWS (SQS, Lambda), Docker, Microservices
+- **Data Tools**: SQL, NoSQL, PostGres, MySQL, Looker Studio, Google Analytics 4
 
-🌟 What I Bring to the Table
-Programming Languages: Python, Java, JavaScript, TypeScript (React)
-AI & ML Frameworks: GPT-4, Scikit, LangChain, Pinecone, PyTorch
-Web Development: HTML, CSS, Flask, React, MongoDB
-Cloud & DevOps: AWS, Docker, Flask, Microservices
-Data Tools: SQL, NoSQL, Looker Studio, Google Analytics 4
-👨‍💻 Featured Projects
-🔗 Local LLM & RAG Integration
-Built a local instance of LLaMA 3.1 integrated with Retrieval-Augmented Generation for advanced information retrieval. Deployed using AWS and Docker.
+## 👨‍💻 Featured Projects
 
-🏡 Real Estate Data Analysis
-Web app that scrapes data from RightMove.co.uk and provides property insights for investors. Future iterations include ML-powered property ratings.
+### 🤖 AI-Powered Story Generator @ StorySpark
+- Engineered an advanced story generation system using {tech stack}
+- Implemented complex prompt engineering for consistent character descriptions
+- Built multi-language support with automated image generation
+- Developing features for inclusive storytelling
+- Technologies: TypeScript, OpenAI API, AWS, Node.js
 
-⏳ FocusTimer
-A visually interactive work timer that integrates with AWS services to create focused work intervals with auto-deployment and budgeting features.
+### 🔗 Local LLM & RAG Integration
+- Built a local instance of LLaMA 3.1 with Retrieval-Augmented Generation
+- Deployed using AWS and Docker for scalable performance
+- Enhanced information retrieval capabilities with custom indexing
 
-📊 Professional Experience Highlights
-Software Engineer (Intern) @ Affiliated: Developed an affiliate tracking system, boosting data processing efficiency by 30% and reducing downtime with microservices.
-Digital Analyst @ Notey Limited: Increased organic traffic by 10% and conversion rates by 15% through SEO optimization and performance improvements.
-Digital Growth Manager @ Kanine Group: Spearheaded IT projects, leading to over $250,000 in generated revenue within six months of launch.
-🌱 On the Horizon
-I’m always looking to connect with industry professionals, explore new opportunities, and continue expanding my knowledge in AI, ML, and Full-Stack Development. Feel free to reach out for collaborations, project discussions, or any exciting opportunities!
+### 🏡 Real Estate Analytics Platform
+- Created a web app for RightMove.co.uk data analysis
+- Implemented property insights using ML algorithms
+- Built responsive UI with React and TypeScript
 
-📫 How to reach me:
+## 📊 Professional Experience
 
-LinkedIn: https://www.linkedin.com/in/emmanuel-cuyugan-1b3aa914a/
-Email: cuyuganemmanuel@gmail.com
+### AI Engineer (Current)
+**StorySpark**
+- Working on our AI-powered story generation engine
+- Implemented complex prompt engineering systems
+- Built image generation pipelines with {tech stack}
+- Created multi-language support for global accessibility
 
-Let's build something great together!
+### Software Engineer (Intern)
+**Affiliated**
+- Developed affiliate tracking system
+- Boosted data processing efficiency by 30%
+- Implemented microservices architecture
+
+### Digital Analyst
+**Notey Limited**
+- Increased organic traffic by 10%
+- Improved conversion rates by 15%
+- Optimized SEO and performance metrics
+
+## 🌱 Current Focus
+- Advanced prompt engineering for AI systems
+- Multi-modal AI integration (text-to-image)
+- Scalable cloud architecture for AI applications
+- Inclusive design in AI systems
+
+## 📫 Let's Connect!
+- LinkedIn: [Emmanuel Cuyugan](https://www.linkedin.com/in/emmanuel-cuyugan-1b3aa914a/)
+- Email: cuyuganemmanuel@gmail.com
+
+*Building intelligent systems that make a difference!*
