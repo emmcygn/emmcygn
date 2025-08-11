@@ -1,65 +1,79 @@
 # 👋 Hey there! I'm Emmanuel Cuyugan 
 🔹 Distinction (1:1) MSc Computer Science Graduate 
-🔹 AI Engineer | Software Engineer | Digital Analyst
+🔹 Founding Software Engineer | AI/ML Engineer | Full-Stack Developer
 
 ## 🚀 About Me
-With expertise in AI Engineering and Full-Stack Development, I specialize in building intelligent systems that bridge technology and user experience. Fresh off pursuing a Master's in Computer Science, I focus on advanced AI applications, particularly in natural language processing and image generation. I have extensive experience working with OpenAI's GPT-4, DALL-E 3, and various cloud infrastructure tools.
+With expertise in Full-Stack Development and AI/ML Engineering, I specialize in building scalable platforms and intelligent systems. As a Founding Software Engineer at a geological mining startup, I've processed 7-figure commodities deals through our trust management and marketplace platform. I bring strong product management experience combined with deep technical knowledge in modern web technologies and machine learning.
 
 ## 🌟 Technical Skills
-- **AI/ML**: OpenAI GPT-4, DALL-E 3, LangChain, Pinecone, PyTorch
-- **Programming**: TypeScript, Python, JavaScript. 
-- **Web Development**: React, Flask, Node.js, Express, MongoDB
-- **Cloud & DevOps**: AWS (SQS, Lambda), Docker, Microservices
-- **Data Tools**: SQL, NoSQL, PostGres, MySQL, Looker Studio, Google Analytics 4
+- **Languages**: JavaScript, TypeScript, Python, Node.js
+- **Frontend**: React, HTML, CSS
+- **Backend**: Flask, Express, RESTful APIs
+- **Databases**: MongoDB, PostgreSQL, SQL, NoSQL
+- **AI/ML**: LLMs, RAG, PyTorch, Scikit-learn, Pandas, Multimodal Generative Models
+- **Cloud & DevOps**: AWS, Google Cloud, Docker, Microservices Architecture
+- **Tools**: Git, VS Code, Jupyter Notebook, PowerBI
 
 ## 👨‍💻 Featured Projects
 
-### 🤖 AI-Powered Story Generator @ StorySpark
-- Engineered an advanced story generation system using {tech stack}
-- Implemented complex prompt engineering for consistent character descriptions
-- Built multi-language support with automated image generation
-- Developing features for inclusive storytelling
-- Technologies: TypeScript, OpenAI API, AWS, Node.js
+### 🏗️ Trust Management & Marketplace Platform
+**Stealth Startup (Geological Mining)**
+- Built MVP platform processing 7-figure commodities deals
+- Full-stack development using Node.js, React, Python, AWS, MongoDB
+- Implemented ETL processes for predictive model platform integration
+- Technologies: Node.js, React, Python, AWS, MongoDB
 
 ### 🔗 Local LLM & RAG Integration
-- Built a local instance of LLaMA 3.1 with Retrieval-Augmented Generation
-- Deployed using AWS and Docker for scalable performance
-- Enhanced information retrieval capabilities with custom indexing
+- Developed local instance of LLaMA 3.1 with Retrieval-Augmented Generation pipeline
+- Enhanced information retrieval accuracy with ChromaDB vector storage
+- Deployed frontend on AWS using Flask & React, with OpenAI API integration
+- Technologies: Python, TypeScript, LangChain, ChromaDB, Ollama, Docker, OpenAI
 
 ### 🏡 Real Estate Analytics Platform
-- Created a web app for RightMove.co.uk data analysis
-- Implemented property insights using ML algorithms
-- Built responsive UI with React and TypeScript
+- Built web application scraping RightMove.co.uk listings using BeautifulSoup
+- Created graphical insights for UK property market analysis
+- Implemented AWS cloud storage with SQL database integration
+- Ongoing: containerization and ML rating system for property evaluation
+- Technologies: Python, Matplotlib, Beautiful Soup, Flask, MySQL, AWS
+
+### 🎨 AI Image Generation Pipeline @ StorySpark
+- Led diffusion model prompt engineering and testing with TypeScript integrations
+- Implemented hosted generative models via API, achieving 3x increase in testing models
+- Improved observability across data suites, resulting in 20% increase in data quality
+- Technologies: TypeScript, API integrations, Generative AI models
 
 ## 📊 Professional Experience
 
-### AI Engineer (Current)
-**StorySpark**
-- Working on our AI-powered story generation engine
-- Implemented complex prompt engineering systems
-- Built image generation pipelines with {tech stack}
-- Created multi-language support for global accessibility
+### Founding Software Engineer (Current)
+**Stealth Startup (Geological Mining)** | Jan 2025 - Present
+- Processing 7-figure commodities deals through MVP trust management platform
+- Full ownership of ETL roles for predictive model platform implementation
+- Building scalable solutions with modern tech stack
 
-### Software Engineer (Intern)
-**Affiliated**
-- Developed affiliate tracking system
-- Boosted data processing efficiency by 30%
-- Implemented microservices architecture
+### Software Engineer / Technical Product Manager
+**StorySpark** | Sep 2024 - Dec 2024
+- Led AI image generation pipeline development and prompt engineering
+- Coordinated feature rollouts and managed daily developer standups
+- Improved data quality by 20% through enhanced observability
 
-### Digital Analyst
-**Notey Limited**
-- Increased organic traffic by 10%
-- Improved conversion rates by 15%
-- Optimized SEO and performance metrics
+### Software Engineer (Internship)
+**Affiliated** | Jun 2024 - Sep 2024
+- Enhanced data processing efficiency by 30% through client API integrations
+- Led migration to microservices architecture using AWS and Docker
+- Achieved 25% increase in development speed and system reliability
 
 ## 🌱 Current Focus
-- Advanced prompt engineering for AI systems
-- Multi-modal AI integration (text-to-image)
-- Scalable cloud architecture for AI applications
-- Inclusive design in AI systems
+- Scalable platform development for high-value transactions
+- Advanced ETL processes for ML/AI model integration
+- Microservices architecture and cloud infrastructure
+- Full-stack development with modern JavaScript frameworks
+
+## 🎓 Education
+**MSc Computer Science (Distinction, 1:1)** | University of Law London | 2023-2024
+**BSc Legal Management (2:1 equivalent)** | Ateneo De Manila University | Dean's List
 
 ## 📫 Let's Connect!
 - LinkedIn: [Emmanuel Cuyugan](https://www.linkedin.com/in/emmanuel-cuyugan-1b3aa914a/)
-- Email: cuyuganemmanuel@gmail.com
+- Email: emmanuelcuyugan@gmail.com
 
-*Building intelligent systems that make a difference!*
+*Building intelligent platforms that drive real business value!*
