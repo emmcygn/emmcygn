@@ -1,13 +1,13 @@
-# 👋 Hey there! I'm Emmanuel Cuyugan
+# Hey there! I'm Emmanuel Cuyugan
 
 🔹 MSc Computer Science Graduate (Distinction, 1:1) 🔹 Full-Stack AI Product Engineer | Founding Engineer | ML Specialist
 
-🚀 About Me  
+About Me  
 I'm a Full-Stack AI Product Engineer with a passion for architecting end-to-end intelligent systems that solve real-world business challenges. From leading product roadmaps to deploying production-grade AI workflows, I've built scalable platforms integrating ML models with robust full-stack architectures. As a Founding Engineer at a geological mining startup, I spearheaded the development of a trust management and marketplace platform handling 7-figure commodities deals, blending AI-driven insights with seamless user experiences. With 5+ years in product and tech, including an MSc in Computer Science, I thrive at the intersection of engineering, AI, and commercial strategy.
 
-🌟 Technical Skills  
+Technical Skills  
 
-- **Languages**: JavaScript, TypeScript, Python, Node.js, Java  
+- **Languages**: JavaScript, TypeScript, Python, Node.js
 - **Frontend**: React, HTML, CSS, Flask (for lightweight UIs)  
 - **Backend**: Express, RESTful APIs, Microservices, FastAPI  
 - **Databases**: MongoDB, PostgreSQL, SQL, NoSQL (BigQuery)  
@@ -15,34 +15,19 @@ I'm a Full-Stack AI Product Engineer with a passion for architecting end-to-end 
 - **Cloud & DevOps**: AWS, Google Cloud, Docker, Vercel, CI/CD Pipelines, Microservices Architecture  
 - **Tools**: Git, VS Code, Jupyter Notebook, PowerBI, LangChain, ChromaDB  
 
-👨‍💻 Featured Projects  
-🏗️ AI-Powered Trust Management & Marketplace Platform  
-*Stealth Startup (Geological Mining)*  
+Featured Projects  
 
-- Designed and built a full-stack MVP processing 7-figure commodities deals, integrating geospatial ML models for yield prediction and monitoring.  
-- Handled end-to-end development: frontend with React, backend with Node.js/TypeScript/Python, data pipelines on AWS, and MongoDB for storage.  
-- Implemented AI-driven ETL processes to feed predictive models, ensuring transparency and efficiency in high-stakes trading.  
-- **Technologies**: Node.js, React, Python, AWS, MongoDB, PyTorch, Scikit-learn  
-
-🔗 Local LLM & RAG Pipeline for Enhanced Retrieval  
+Local LLM & RAG Pipeline for Enhanced Retrieval  
 - Engineered a production-ready local LLaMA 3.1 instance with RAG for accurate information retrieval, using ChromaDB for vector embeddings.  
 - Deployed a full-stack app on AWS with Flask backend and React frontend, incorporating OpenAI APIs and automated testing via GitHub Actions.  
 - Focused on product usability, enabling semantic search and benchmarking for real-time applications.  
 - **Technologies**: Python, TypeScript, LangChain, ChromaDB, Ollama, Docker, OpenAI  
 
-🏡 Real Estate Analytics Web App  
+Real Estate Analytics Web App  
 - Developed a full-stack tool scraping RightMove.co.uk data with BeautifulSoup, visualizing insights via Matplotlib for investors.  
 - Integrated FastAPI backend, MongoDB storage on AWS, and an ML rating system (in progress) to identify high-potential properties.  
 - Emphasized product features like graphical dashboards and containerization for scalable deployment.  
-- **Technologies**: Python, Matplotlib, BeautifulSoup, FastAPI, MongoDB, AWS  
-
-🎨 AI Image Generation & Prompt Engineering Pipeline  
-*@ StorySpark*  
-
-- Led full-stack integrations for diffusion and LLM models, using TypeScript to connect APIs and boost model availability by 3x.  
-- Owned observability and data quality improvements (20% uplift), coordinating rollouts from backend endpoints to frontend displays.  
-- Applied product engineering principles to align AI features with growth targets in a fast-paced environment.  
-- **Technologies**: TypeScript, JavaScript, Generative AI (LLMs/Diffusion), Git  
+- **Technologies**: Python, Matplotlib, BeautifulSoup, FastAPI, MongoDB, AWS    
 
 📊 Professional Experience  
 **Founding Full-Stack AI Product Engineer** (Current)  
@@ -72,17 +57,17 @@ I'm a Full-Stack AI Product Engineer with a passion for architecting end-to-end 
 - Managed platform development using low-code and custom architectures, closing deals for 15+ platforms and 20+ vendors.  
 - Built custom dashboards with Looker Studio, GA4, and GTM for real-time insights.  
 
-🌱 Current Focus  
+Current Focus  
 - Architecting AI-infused full-stack platforms for commercial scalability.  
 - Advancing RAG, multimodal ML, and microservices for intelligent applications.  
 - Product ownership in ambiguous, high-growth environments to deliver measurable value.  
 
-🎓 Education  
+Education  
 - **MSc Computer Science** (Distinction, 1:1) | The University of Law, London | 2023-2024  
-- **BSc Legal Management** (2:1 equivalent, Dean’s List) | Ateneo De Manila University, Manila | 2016-2020  
+- **BSc Legal Management** (2:1 equivalent, Dean’s List 2017) | Ateneo De Manila University, Manila | 2016-2020  
 
-📫 Let's Connect!  
+et's Connect!  
 - **LinkedIn**: [Emmanuel Cuyugan](https://www.linkedin.com/in/emmanuel-cuyugan/)  
 - **Email**: emmanuelcuyugan@gmail.com  
 
-Building AI-powered products that scale and transform industries! 🚀
+Building AI-native products that scale and transform industries! 
