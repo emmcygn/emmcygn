@@ -29,7 +29,7 @@ Real Estate Analytics Web App
 - Emphasized product features like graphical dashboards and containerization for scalable deployment.  
 - **Technologies**: Python, Matplotlib, BeautifulSoup, FastAPI, MongoDB, AWS    
 
-📊 Professional Experience  
+Professional Experience  
 **Founding Full-Stack AI Product Engineer** (Current)  
 *Stealth Startup (Geological Mining) | London, UK | Nov 2024 - Present*  
 
@@ -66,8 +66,8 @@ Education
 - **MSc Computer Science** (Distinction, 1:1) | The University of Law, London | 2023-2024  
 - **BSc Legal Management** (2:1 equivalent, Dean’s List 2017) | Ateneo De Manila University, Manila | 2016-2020  
 
-et's Connect!  
-- **LinkedIn**: [Emmanuel Cuyugan](https://www.linkedin.com/in/emmanuel-cuyugan/)  
+Connect with me on  
+- **LinkedIn**: [Emmanuel Cuyugan](https://www.linkedin.com/in/emmanuel-c-1b3aa914a/)  
 - **Email**: emmanuelcuyugan@gmail.com  
 
 Building AI-native products that scale and transform industries! 
