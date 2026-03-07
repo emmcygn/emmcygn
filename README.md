@@ -3,7 +3,7 @@
 🔹 MSc Computer Science Graduate (Distinction, 1:1) 🔹 Full-Stack AI Product Engineer | Founding Engineer | ML Specialist
 
 About Me  
-I'm a Full-Stack AI Product Engineer with a passion for architecting end-to-end intelligent systems that solve real-world business challenges. From leading product roadmaps to deploying production-grade AI workflows, I've built scalable platforms integrating ML models with robust full-stack architectures. As a Founding Engineer at a geological mining startup, I spearheaded the development of a trust management and marketplace platform handling 7-figure commodities deals, blending AI-driven insights with seamless user experiences. With 5+ years in product and tech, including an MSc in Computer Science, I thrive at the intersection of engineering, AI, and commercial strategy.
+I'm a Full-Stack Software Engineer building closely with Product and AI. I have a passion for architecting end-to-end intelligent systems that solve real-world business challenges. From leading product roadmaps to deploying production-grade AI workflows, I've built scalable platforms integrating ML models with robust full-stack architectures. As a Founding Engineer at a geological mining startup, I spearheaded the development of a trust management and marketplace platform handling 7-figure commodities deals, blending AI-driven insights with seamless user experiences. With 5+ years in product and tech, including an MSc in Computer Science, I thrive at the intersection of engineering, AI, and commercial strategy.
 
 Technical Skills  
 
@@ -17,8 +17,8 @@ Technical Skills
 
 Featured Projects  
 
-Local LLM & RAG Pipeline for Enhanced Retrieval  
-- Engineered a production-ready local LLaMA 3.1 instance with RAG for accurate information retrieval, using ChromaDB for vector embeddings.  
+MCP and RAG Pipeline for Enhanced Retrieval  
+- Engineered a production-ready instance with RAG for accurate information retrieval, using ChromaDB for vector embeddings.  
 - Deployed a full-stack app on AWS with Flask backend and React frontend, incorporating OpenAI APIs and automated testing via GitHub Actions.  
 - Focused on product usability, enabling semantic search and benchmarking for real-time applications.  
 - **Technologies**: Python, TypeScript, LangChain, ChromaDB, Ollama, Docker, OpenAI  
