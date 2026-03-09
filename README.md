@@ -3,7 +3,7 @@
 🔹 MSc Computer Science Graduate (Distinction, 1:1) 🔹 Full-Stack AI Product Engineer | Founding Engineer 
 
 About Me  
-I'm a Full-Stack Software Engineer building closely with Product and AI. I have a passion for architecting end-to-end intelligent systems that solve real-world business challenges. From leading product roadmaps to deploying production-grade AI workflows, I've built scalable platforms integrating ML models with robust full-stack architectures. As a Founding Engineer at a geological mining startup, I spearheaded the development of a trust management and marketplace platform handling 7-figure commodities deals, blending AI-driven insights with seamless user experiences. With 5+ years in product and tech, including an MSc in Computer Science, I thrive at the intersection of engineering, AI, and commercial strategy.
+I'm a Full-Stack Software Engineer building closely with Product and AI. I have a passion for architecting end-to-end intelligent systems that solve real-world business challenges. From leading product roadmaps to deploying production-grade AI workflows, I've built scalable platforms integrating AI and ML models with robust full-stack architectures. As a Founding Engineer at a tech startup tackling geological mining, I spearheaded the development of a trust management and marketplace platform handling 7-figure commodities deals, blending AI-driven insights with seamless user experiences. With 5+ years in product and tech, including an MSc in Computer Science, I thrive at the intersection of engineering, AI, and commercial strategy.
 
 Technical Skills  
 
@@ -69,5 +69,3 @@ Education
 Connect with me on  
 - **LinkedIn**: [Emmanuel Cuyugan](https://www.linkedin.com/in/emmanuel-c-1b3aa914a/)  
 - **Email**: emmanuelcuyugan@gmail.com  
-
-Building AI-native products that scale and transform industries! 
