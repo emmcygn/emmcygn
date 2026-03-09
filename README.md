@@ -7,11 +7,11 @@ I'm a Full-Stack Software Engineer building closely with Product and AI. I have 
 
 Technical Skills  
 
-- **Languages**: JavaScript, TypeScript, Python, Node.js
+- **Languages**: JavaScript, TypeScript, Python, Node.js, NextJS
 - **Frontend**: React, HTML, CSS, Flask (for lightweight UIs)  
-- **Backend**: Express, RESTful APIs, Microservices, FastAPI  
+- **Backend**: Express, RESTful APIs, Microservices, FastAPI, MCPs  
 - **Databases**: MongoDB, PostgreSQL, SQL, NoSQL (BigQuery)  
-- **AI/ML**: LLMs, RAG, PyTorch, Scikit-learn, Pandas, Multimodal Generative Models, Diffusion Models  
+- **AI/ML**: LLMs, RAG, PyTorch, Scikit-learn, Pandas, Multimodal Generative Models, Diffusion Models
 - **Cloud & DevOps**: AWS, Google Cloud, Docker, Vercel, CI/CD Pipelines, Microservices Architecture  
 - **Tools**: Git, VS Code, Jupyter Notebook, PowerBI, LangChain, ChromaDB  
 
