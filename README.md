@@ -1,6 +1,6 @@
 # Emmanuel Cuyugan
 
-Founding engineer. I build AI systems end-to-end — from retrieval architecture and agentic pipelines to the product surfaces people actually use.
+Founding engineer. I build AI systems end-to-end from retrieval architecture and agentic pipelines to the product surfaces people actually use.
 
 MSc Computer Science (Distinction) · Legal studies undergrad · Based in London.
 
