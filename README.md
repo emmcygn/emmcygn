@@ -32,7 +32,7 @@ Six deterministic conflict detectors with a full reconciliation state machine, a
 
 ## Stack
 
-`Python` `TypeScript` `React` `Node.js` `FastAPI` `Next.js`  
+`Python` `TypeScript` `React` `Node.js` `FastAPI` `Next.js``Go`
 `LLMs` `RAG` `MCP` `Agents` `LangChain` `Cohere` `Langfuse`  
 `AWS` `Docker` `PostgreSQL` `MongoDB` `GitHub Actions`
 
