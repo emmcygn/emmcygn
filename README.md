@@ -8,6 +8,10 @@ MSc Computer Science (Distinction) · Legal studies undergrad · Based in London
 
 ## Projects
 
+**[agent-dispatch](https://github.com/emmcygn/slack-builder-bot)** — Slack-to-PR coding agent for non-technical teams  
+Non-technical users describe features in a Slack channel — a Haiku classifier gates complexity, then Claude Code autonomously implements the change and opens a draft PR. Built and debugged in production: bypassPermissions for CI sandboxes, Haiku retry with backoff, dual signing secret verification, race-condition-safe PR notification. Drop-in kit for any Next.js project.  
+`TypeScript` `Claude Code` `Anthropic` `Slack API` `GitHub Actions`
+
 **[lexichunk](https://github.com/emmcygn/lexichunk)** — Legal-aware text chunking SDK for RAG pipelines  
 General-purpose chunkers fragment legal text in ways that destroy retrieval quality. lexchunk is built specifically for UK, US, and EU legal document formats. Benchmarked against LangChain's standard chunker: 75% better top-1 precision, 60%+ better recall, zero clause fragmentation.  
 `Python` `RAG` `LangChain` `Anthropic` `GitHub Actions`
@@ -17,7 +21,7 @@ RAG pipeline with hybrid search and Cohere reranking to extract obligations, def
 `Python` `TypeScript` `OpenAI` `Anthropic` `Cohere` `FastMCP` `AWS` `PostgreSQL`
 
 **[Agentic Eval Harness](https://github.com/emmcygn/legal-rag-eval)** — Parallel benchmarking via subagents  
-Subagents running evaluations in parallel overnight. Automated semantic testing through GitHub Actions. Built to benchmark lexchunk but reusable across retrieval pipelines.  
+Subagents running evaluations in parallel overnight. Automated semantic testing through GitHub Actions. Built to benchmark lexichunk but reusable across retrieval pipelines.  
 `Python` `Anthropic` `Langfuse` `GitHub Actions`
 
 **[Document Collaboration Suite](https://github.com/emmcygn/plate.js-text-editor)** — Legal document review tooling  
